@@ -24,7 +24,8 @@ html {
 
 /* line 19, /Users/CatherineD78/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bootstrap-sass-3.3.6/assets/stylesheets/bootstrap/_normalize.scss */
 body {
-  margin: 0; }
+  margin: 0;
+}
 
 /* line 33, /Users/CatherineD78/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bootstrap-sass-3.3.6/assets/stylesheets/bootstrap/_normalize.scss */
 article,
@@ -1407,7 +1408,8 @@ body {
   font-size: 16px;
   line-height: 1.4;
   color: #333333;
-  background-color: #eeeeee; }
+  background-color: #dddddd; }
+
 
 /* line 36, /Users/CatherineD78/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bootstrap-sass-3.3.6/assets/stylesheets/bootstrap/_scaffolding.scss */
 input,
@@ -10144,11 +10146,15 @@ button.close {
 
 /* line 18, /Users/CatherineD78/Desktop/JeCode/middleman-fanfan/source/stylesheets/pages/_home.css.scss */
 .resa {
-  font-size: 2vw; }
+  font-size: 2vw; 
+  border-radius: 5px;
+}
 
 /* line 21, /Users/CatherineD78/Desktop/JeCode/middleman-fanfan/source/stylesheets/pages/_home.css.scss */
 .resa2 {
-  font-size: 3vw; }
+  font-size: 3vw;
+  border-radius: 5px;
+ }
 
 /* line 26, /Users/CatherineD78/Desktop/JeCode/middleman-fanfan/source/stylesheets/pages/_home.css.scss */
 .descrip {
@@ -10161,6 +10167,7 @@ button.close {
 /* line 34, /Users/CatherineD78/Desktop/JeCode/middleman-fanfan/source/stylesheets/pages/_home.css.scss */
 .spacer2 {
   height: 6em; }
+
 
 /*
 ==============================================
@@ -10929,3 +10936,12 @@ stretchRight
     -webkit-transform: scaleX(1.01); }
   100% {
     -webkit-transform: scaleX(1); } }
+.album{
+  padding-top: 5em;
+  padding-bottom: 1em;
+}
+.album2{
+  padding-top: 3em;
+  padding-bottom: 30px;
+}
+
