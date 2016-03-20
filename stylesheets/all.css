@@ -10124,9 +10124,9 @@ button.close {
 
 /* line 35, /Users/CatherineD78/Desktop/JeCode/middleman-fanfan/source/stylesheets/layout/_utilities.css.scss */
 .resized {
-  width: 100%;
-  padding-left: 15px;
-  padding-right: 15px; }
+  width: 80%;
+  padding: 15px;
+}
 
 /* line 1, /Users/CatherineD78/Desktop/JeCode/middleman-fanfan/source/stylesheets/pages/_home.css.scss */
 #wrapper {
@@ -10978,4 +10978,8 @@ stretchRight
 }
 .ombre{
   box-shadow: 1px 1px 4px #bbbbbb;
+}
+
+.map-border{
+  border-radius: 5px;
 }

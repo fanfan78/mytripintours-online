@@ -1,0 +1,6 @@
+
+1_ Editez le fichier /inc/head-form.php
+
+2_ Vers la ligne 41, renseignez votre adresse email
+
+3_ Modifier le nombre de caractères minimum obligatoire, dans certains champs du formulaire. Editez le fichier /js/bootstrap-contact.js
