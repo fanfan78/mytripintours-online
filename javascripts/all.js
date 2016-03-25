@@ -12690,19 +12690,5 @@ return jQuery;
     return this
   }
 
+
 }(jQuery);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
