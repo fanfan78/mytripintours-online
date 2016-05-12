@@ -10145,6 +10145,22 @@ button.close {
 #wrapper h2 {
   font-size: 2vw; }
 
+#wrapper2 {
+  position: absolute;
+  right: 10%;
+  bottom: 70%;
+  text-align: center;
+  color: white;
+  text-shadow: 2px 2px 4px rgba 0, 0, 0, 0.5; }
+
+/* line 10, /Users/CatherineD78/Desktop/JeCode/middleman-fanfan/source/stylesheets/pages/_home.css.scss */
+#wrapper2 h1 {
+  font-size: 4vw; }
+
+/* line 14, /Users/CatherineD78/Desktop/JeCode/middleman-fanfan/source/stylesheets/pages/_home.css.scss */
+#wrapper2 h2 {
+  font-size: 2vw; }
+
 /* line 18, /Users/CatherineD78/Desktop/JeCode/middleman-fanfan/source/stylesheets/pages/_home.css.scss */
 .resa {
   font-size: 2vw; 
